@@ -6,3 +6,6 @@ print (2**3)
 variable_texto = 'Nombre'
 print ("Nombre: ",variable_texto)
 print (len(variable_texto))
+apellido = "text"
+apellido = input('Cual es tu apellido :')
+print (apellido)
