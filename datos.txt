@@ -1,2 +1,4 @@
 Algunas notas
+print -> imprime en consola 
+type -> muestra que tipo de dato es : print (type("hola pepe"))
 
