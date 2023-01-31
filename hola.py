@@ -7,5 +7,8 @@ variable_texto = 'Nombre'
 print ("Nombre: ",variable_texto)
 print (len(variable_texto))
 apellido = "text"
-apellido = input('Cual es tu apellido :')
+#apellido = input('Cual es tu apellido :')
 print (apellido)
+print (3 >= 4)
+name = "Olivetto"
+print ("Mi nombre es: %s y mi Apellido es: %s" %(name, apellido))
