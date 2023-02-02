@@ -4,6 +4,9 @@ type -> muestra que tipo de dato es : print (type("hola pepe"))
 Variables 
 - list 
 - set 
-- tuple 
+- tuple tuple()
+- dictionary dict()
+    - del dictionary("elemento")
 
+ver consola de git 
 
